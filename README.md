@@ -58,42 +58,6 @@ streamlit run Multi\ QA_RAG_Chatbot_LangChain_OpenAI_FAISS_Streamlit.py
 
 ---
 
-## Sample Screenshots
-
-**1. Sidebar Setup**
-```
-+-------------------------------+
-|  Enter OpenAI API Key: [****] |
-|  📎 Upload PDF: [Choose file]  |
-|  ✅ PDF loaded and RAG chain...|
-+-------------------------------+
-```
-
-**2. Main Chat UI**
-```
-+---------------------------------------------------+
-| Chat with Your PDF using RAG + OpenAI             |
-|---------------------------------------------------|
-| user: What is the executive summary?              |
-| assistant: The executive summary states that...   |
-|---------------------------------------------------|
-| user: What are the main risks mentioned?          |
-| assistant: The main risks highlighted are...      |
-|---------------------------------------------------|
-| [Ask a question about your PDF...]                |
-+---------------------------------------------------+
-```
-
-**3. Streaming Answer**
-```
-+---------------------------------------------------+
-| assistant: The financial highlights include...    |
-| (text appears as it is generated)                 |
-+---------------------------------------------------+
-```
-
----
-
 ## Screenshots
 
 **1. Validation Success**
