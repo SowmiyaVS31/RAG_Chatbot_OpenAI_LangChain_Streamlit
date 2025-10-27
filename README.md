@@ -98,7 +98,7 @@ streamlit run Multi\ QA_RAG_Chatbot_LangChain_OpenAI_FAISS_Streamlit.py
 
 **1. Validation Success**
 ![Initial App Screen](images/Validation_Success.png)
-*The app prompts for an OpenAI API key and PDF upload. No file or key has been provided yet.*
+*The user has entered a valid OpenAI API key and successfully uploaded a PDF. The app confirms that the PDF has been processed and the RAG chain is ready for interaction.*
 
 **2. Chat Output**
 ![PDF Uploaded, Awaiting API Key](images/Output.png)
