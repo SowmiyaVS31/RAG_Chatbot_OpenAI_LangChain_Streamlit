@@ -97,15 +97,15 @@ streamlit run Multi\ QA_RAG_Chatbot_LangChain_OpenAI_FAISS_Streamlit.py
 ## Screenshots
 
 **1. Validation Success**
-![Initial App Screen](images/Validation_Success.png)
+![Initial App Screen](Screenshots/Validation_Success.png)
 *The user has entered a valid OpenAI API key and successfully uploaded a PDF. The app confirms that the PDF has been processed and the RAG chain is ready for interaction.*
 
 **2. Chat Output**
-![PDF Uploaded, Awaiting API Key](images/Output.png)
+![PDF Uploaded, Awaiting API Key](Screenshots/Output.png)
 *After successful validation, the user asks a question related to the uploaded PDF. The chatbot responds accurately using the retrieved document context.*
 
 **3. Invalid API Key Error**
-![Invalid API Key Error](images/IncorrectKey.png)
+![Invalid API Key Error](Screenshots/IncorrectKey.png)
 *An incorrect OpenAI API key was entered, resulting in an authentication error. The error message and traceback are displayed, guiding the user to check their API key.*
 
 ---
